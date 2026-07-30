@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\bin\Debug\2.ConstanteTiposOperadores.exe.config
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\bin\Debug\2.ConstanteTiposOperadores.exe
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\bin\Debug\2.ConstanteTiposOperadores.pdb
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\obj\Debug\2.ConstanteTiposOperadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\obj\Debug\2.ConstanteTiposOperadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\obj\Debug\2.ConstanteTiposOperadores.exe
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\2.ConstanteTiposOperadores\2.ConstanteTiposOperadores\obj\Debug\2.ConstanteTiposOperadores.pdb
