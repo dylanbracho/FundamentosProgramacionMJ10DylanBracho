@@ -67,22 +67,22 @@ namespace _4.CondicionalesSimplesDobles
             }*/
 
             //Crear un algoritmo que permita ingresar dos numeros, si el el primer numero es mayor al segundo numero informar su suma y diferencia, en caso contrario informar el proucto y la division del primer numero respecto al segundo numero
-            byte numero1 = 0;
-            byte numero2 = 0;
+            float numero1 = 0;
+            float numero2 = 0;
             Console.WriteLine("ingrese primer numero");
-            numero1 = Convert.ToByte(Console.ReadLine());
+            numero1 = Convert.ToSingle(Console.ReadLine());
             Console.WriteLine("ingrese segundo numero");
-            numero2 = Convert.ToByte(Console.ReadLine());
+            numero2 = Convert.ToSingle(Console.ReadLine());
 
             if (numero1 > numero2)
             {
-                Console.WriteLine("Esta es su suma" + numero1 + numero2);
-                Console.WriteLine("Esta es su resta" + numero1 - numero2);
+                Console.WriteLine("Esta es su suma: " + (numero1 + numero2));
+                Console.WriteLine("Esta es su resta: " + (numero1 - numero2));
             }
             else
             {
-                Console.WriteLine("Esta es su producto" + numero1 * numero2);
-                Console.WriteLine("Esta es su division" + numero1 / numero2);
+                Console.WriteLine("Esta es su producto: " + (numero1 * numero2));
+                Console.WriteLine("Esta es su division: " + (numero1 / numero2));
             }
 
         }
