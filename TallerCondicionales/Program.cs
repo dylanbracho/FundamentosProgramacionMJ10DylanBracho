@@ -62,14 +62,38 @@ namespace TallerCondicionales
                     }
             }*/
             //---------------------------------------------------------------------------------------
-            bool invencible = false;
+           //2. 
+            /*bool invencible = false;
             int municion = 0;
             Console.WriteLine("¿El personaje es invencible?");
             invencible = bool.Parse(Console.ReadLine());
             Random rnd = new Random();
             municion = rnd.Next(1,20);
             Console.WriteLine("Municion = " + municion);
-
+            if (invencible  == true && municion > 0 && municion <= 10)
+            {
+                Console.WriteLine("El personaje esta disparando");
+            }*/
+            //-------------------------------------------------------------------------------------
+            //4.
+            /*Console.WriteLine("Mueve el personaje");
+            ConsoleKeyInfo movimiento  = Console.ReadKey(true);
+            if (movimiento.Key == ConsoleKey.D || movimiento.Key == ConsoleKey.I)
+            {
+                if (movimiento.Key == ConsoleKey.D)
+                {
+                    Console.WriteLine("El personaje se mueve hacia la derecha");
+                }
+                else
+                {
+                    Console.WriteLine("El personaje se mueve hacia la izquierda");
+                }
+            }
+            else
+            {
+                Console.WriteLine("No me puedo mover en esa direccion");
+            }*/
+            
         }
     }
 }
