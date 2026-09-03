@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\bin\Debug\12.CicloDowhile.exe.config
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\bin\Debug\12.CicloDowhile.exe
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\bin\Debug\12.CicloDowhile.pdb
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\obj\Debug\12.CicloDowhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\obj\Debug\12.CicloDowhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\obj\Debug\12.CicloDowhile.exe
+C:\Users\B09S104est\Documents\DB\FundamentosProgramacionMJ10DylanBracho\12.CicloDowhile\12.CicloDowhile\obj\Debug\12.CicloDowhile.pdb
