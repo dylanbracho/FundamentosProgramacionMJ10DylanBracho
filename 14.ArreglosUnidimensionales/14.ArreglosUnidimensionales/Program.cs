@@ -56,22 +56,37 @@ namespace _14.ArreglosUnidimensionales
             Console.WriteLine($"El promedio de los numeros ingresados es: {promedio}");*/
 
             //Llene un arreglo con 15 numeros ingresados por tecldo una vez registrado el total de valores, muestre en pantalla todos los elementos del arreglo. Finalmente, determine cual es el numero mayor y cual es el numero menor,junto con l aposicion que ocupa cada uno dentro del arreglo.}
-            int[] numeros = new int[15];
-            for (int i = 0; i < 15; i++)
+            int[] numeros = new int[5];
+            
+            for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"Ingrese el numero P{i + 1}, I{i}:");
                 numeros[i] = int.Parse(Console.ReadLine());
-
-                if (true)
+            }
+            int mayor = numeros[0];
+            int menor = numeros[0];
+            int posicionMayor = 0;
+            int posicionMenor = 0;
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                if (numeros[i] > mayor)
                 {
-
+                    mayor = numeros[i];
+                    posicionMayor = i;
+                }
+                if (numeros[i] < menor)
+                {
+                    menor = numeros[i];
+                    posicionMenor = i;
                 }
             }
             for (int i = 0; i < numeros.Length; i++)
             {
-                Console.Write($"Posicion {i + 1}: {numeros[i]} |");
+                Console.Write($" {numeros[i]} |");
             }
-
+            
+            Console.WriteLine($"\nEl numero mayor es: {mayor}, y su posicion es: {posicionMayor}");
+            Console.WriteLine($"El numero menor es: {menor}, y su posicion es: {posicionMenor}");
         }
     }
 }
